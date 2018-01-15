@@ -25,10 +25,13 @@
     "chai-immutable": "^1.6.0",
     "jsdom": "^11.5.1",
     "mocha": "^4.1.0",
+    "react-hot-loader": "^4.0.0-beta.14",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.11.0"
   },
   "dependencies": {
-    "immutable": "^3.8.2"
+    "immutable": "^3.8.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   }
 }
